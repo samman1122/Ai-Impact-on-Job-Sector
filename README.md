@@ -14,7 +14,11 @@ Understand job satisfaction levels
 Study the impact of tool usage on productivity
 Explore work patterns (remote vs office, working hours)
 Identify employees at risk due to automation
+
+
 📊 Key Analysis Performed
+
+
 Distribution of Productivity Change (%)
 Distribution of Job Satisfaction
 Employee segmentation by Adoption Level (Low, Medium, High)
@@ -28,6 +32,8 @@ Missing value analysis
 
 
 🔍 Key Insights
+
+
 Most employees show stable productivity with minor changes
 Job satisfaction is generally moderate to high
 Higher tool usage is associated with better productivity outcomes
@@ -37,6 +43,8 @@ Work hours are consistent and balanced, indicating no major workload issues
 
 
 💡 Business Recommendations
+
+
 Upskill employees to handle future job changes
 Encourage effective use of workplace tools
 Monitor productivity trends regularly
@@ -45,6 +53,8 @@ Strengthen hybrid work policies
 
 
 🛠️ Tools & Technologies
+
+
 Python
 Pandas
 Matplotlib
