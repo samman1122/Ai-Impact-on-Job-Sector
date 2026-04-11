@@ -10,9 +10,13 @@ The goal is to extract meaningful insights that can support data-driven business
 🎯 Objectives
 
 Analyze productivity changes among employees
+
 Understand job satisfaction levels
+
 Study the impact of tool usage on productivity
+
 Explore work patterns (remote vs office, working hours)
+
 Identify employees at risk due to automation
 
 
@@ -20,14 +24,23 @@ Identify employees at risk due to automation
 
 
 Distribution of Productivity Change (%)
+
 Distribution of Job Satisfaction
+
 Employee segmentation by Adoption Level (Low, Medium, High)
+
 Relationship between Adoption Level and Productivity
+
 Industry-wise employee distribution
+
 Automation risk classification
+
 Remote vs office work distribution
+
 Average satisfaction by adoption level
+
 Work hours distribution
+
 Missing value analysis
 
 
@@ -35,10 +48,15 @@ Missing value analysis
 
 
 Most employees show stable productivity with minor changes
+
 Job satisfaction is generally moderate to high
+
 Higher tool usage is associated with better productivity outcomes
+
 Work environment is hybrid, with a balanced remote and office workforce
+
 A significant number of employees fall into medium to high automation risk
+
 Work hours are consistent and balanced, indicating no major workload issues
 
 
@@ -46,9 +64,13 @@ Work hours are consistent and balanced, indicating no major workload issues
 
 
 Upskill employees to handle future job changes
+
 Encourage effective use of workplace tools
+
 Monitor productivity trends regularly
+
 Support employees with lower satisfaction levels
+
 Strengthen hybrid work policies
 
 
